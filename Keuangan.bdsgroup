@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{F0CDDC5A-758B-4CC9-8478-917314E5B032}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="Keuangan.exe">Keuangan.bdsproj</Projects>
+      <Projects Name="VerifikasiToken.exe">..\Verifikasi\VerifikasiToken.bdsproj</Projects>
+      <Projects Name="Targets">Keuangan.exe VerifikasiToken.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>

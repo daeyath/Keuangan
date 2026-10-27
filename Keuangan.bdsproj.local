@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/10/08 21.38.41.374.pas,C:\Users\Lenovo\Documents\Borland Studio Projects\Unit1.pas=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uDebetKredit.pas</Transaction>
+    <Transaction>2026/10/08 21.38.41.374.dfm,C:\Users\Lenovo\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uDebetKredit.dfm</Transaction>
+    <Transaction>2026/10/08 21.38.46.241.bdsproj,C:\Users\Lenovo\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\Keuangan.bdsproj</Transaction>
+    <Transaction>2026/10/09 07.49.53.146.pas,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\Unit2.pas=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uLogIn.pas</Transaction>
+    <Transaction>2026/10/09 07.49.53.146.dfm,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\Unit2.dfm=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uLogIn.dfm</Transaction>
+    <Transaction>2026/10/10 06.24.51.831.pas,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\Unit1.pas=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uPassword.pas</Transaction>
+    <Transaction>2026/10/10 21.35.15.125.pas,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\Unit1.pas=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uDelphi.pas</Transaction>
+    <Transaction>2026/10/23 09.53.36.673.pas,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\Unit1.pas=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uFileDialog.pas</Transaction>
+    <Transaction>2026/10/23 09.53.36.673.dfm,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\Unit1.dfm=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uFileDialog.dfm</Transaction>
+    <Transaction>2026/10/24 16.21.52.295.pas,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uDelphi.pas=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uHitung.pas</Transaction>
+    <Transaction>2026/10/24 18.21.59.431.pas,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uHitung.pas=</Transaction>
+    <Transaction>2026/10/24 19.51.32.521.pas,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uLogIn.pas=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uFormLogIn.pas</Transaction>
+    <Transaction>2026/10/24 19.51.32.521.dfm,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uLogIn.dfm=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uFormLogIn.dfm</Transaction>
+    <Transaction>2026/10/24 19.51.48.598.pas,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\Unit1.pas=C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uLogIn.pas</Transaction>
+    <Transaction>2026/10/25 06.05.05.553.pas,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uFileDialog.pas=</Transaction>
+    <Transaction>2026/10/25 06.05.05.553.dfm,C:\Users\Lenovo\Documents\Borland Studio Projects\Keuangan\uFileDialog.dfm=</Transaction>
+    <Transaction>2026/10/26 21.11.30.829.pas,C:\Users\Lenovo\Documents\Borland Studio Projects\Delphi\uDelphi.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
