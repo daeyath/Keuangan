@@ -245,7 +245,7 @@ begin
 end;
 
 procedure TFormDebetKredit.FormCreate(Sender: TObject);
-  procedure Tambah(var Angka: Shortint);
+  procedure Tambah(var Angka: Shortint); // Copyright 2026 by Hidayat Idrus.
   begin
     Angka:=Angka+1;
   end;
